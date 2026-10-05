@@ -44,7 +44,7 @@ No build step. Open `index.html`, or run `npx serve .`
 ## Hosting
 
 Deployed to GitHub Pages by [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) on every push.
-Live at **https://sankeymwakingwe.github.io/TheTaleHaus/**
+Live at **https://sankeymwakingwe.github.io/danie-sankey/**
 
 One-time setup (repo owner):
 1. Settings → General → Danger Zone → **Change visibility** → Public (free Pages needs a public repo).
